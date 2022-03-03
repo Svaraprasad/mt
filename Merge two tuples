@@ -1,0 +1,4 @@
+n1=("mccs","prasad")
+n2=("maths","chemistry","computers")
+
+print(n1+n2)
